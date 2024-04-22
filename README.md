@@ -50,4 +50,6 @@ A simple deep learning model is implemented using TensorFlow/Keras:
 - Average performance metrics are reported for each algorithm in each iteration of cross-validation.
 - Concatenated dataframes are displayed to show metrics for all algorithms across all iterations.
 
+## About My results
+Considering all these metrics, SVM appears to perform the best overall, followed by Deep Learning and then Random Forest. However, the choice of the best classifier can also depend on specific requirements and constraints of the problem domain, as well as considerations regarding computational complexity and interpretability. 
 
