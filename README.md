@@ -39,9 +39,6 @@ A simple deep learning model is implemented using TensorFlow/Keras:
 - Metrics such as accuracy, precision, recall, and F1-score are computed for each algorithm.
 - Average performance metrics across all folds are reported for each algorithm.
 
-## ROC Curve
-
-- ROC curves are plotted for the LSTM classifier using Stratified K-Fold cross-validation.
 
 ## Results
 
